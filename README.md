@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My Project
 ========
 
@@ -28,3 +29,7 @@ The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
 
+=======
+# mycq5
+This is sample Cq5 project.
+>>>>>>> 231a106a9de4b7619821f9075fd1e3d91c541db7
